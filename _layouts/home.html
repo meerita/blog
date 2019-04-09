@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ site.title }}</title>
+    <style>
+      {% include styles.css %}
+    </style>
+  </head>
+  <body> 
+    {% include nav-home.html %}
+    <h1 class="padding--32 padding-left--16 padding-right--16 margin--0">Hello, I'm Diego Lafuente, a designer and developer in Barcelona working as Head of Product. I write about business, design, history, technology and other topics.</h1>
+    <main class="display--grid md-grid-template-columns--2">
+      <article class="background-color--1 padding--16">
+        <h2 class="margin--0">Latest on the blog</h2>
+        {% for post in site.posts limit:1 %}
+          <h4 class="margin-bottom--8 text-transform--capitalize">{{ post.category }}</h4>
+          <p class="margin--0"><a href="{{ post.url }}">{{ post.title }}</a> (<strong>{{ post.date  | date: "%b %d" }}</strong>)</p>
+          {% if post.summary %}
+            <p class="margin-top--0">{{ post.summary }}</p>
+          {% endif %}
+        {% endfor %}
+        <h4 class="margin-bottom--8">Other posts worth reading…</h4>
+        <ul class="padding-left--0 margin-top--0 list-style--none">
+        {% for post in site.posts limit:20 offset:1 %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date  | date: "%b %d" }})</li>
+        {% endfor %}
+        </ul>
+        <p><a href="/archives/" title="List of all blog posts since 2001">All blog posts</a> from 2000 to {{ "now" | date: "%Y" }}</p>
+      </article>
+      <aside class="background-color--4 padding--16">
+        <h2 class="margin--0">Content</h2>
+        <p>You can read more <a href="/about/">about me</a> and also have a full list of my proffesional career.</p>
+        <h3>Frameworks</h3>
+        <ul>
+          <li><a href="">Utilitarian CSS Framworks</a><sup class="background-color--2">New!</sup>: UCSSM is a CSS framework and a methodology for developing responsive, mobile first projects on the web.</li>
+          <li><a href="">Flexsasscandy</a>: Grid based on the flex display property using Sass and BEM naming convention.</li>
+          <li><a href="https://github.com/meerita/avuik">Android Vector Universal Interface Kit</a>: <acronym title="Android Vector Universal Interface Kit">AVUIK</acronym> is a complete, public domain licensed, illustration set of the latest Android Universal Interface theme called Holo, wich is available on Android KitKat and that you can use freely on Sketch App (version 3.0). <strong>139 stars</strong> +9 forks</li>
+          <li><a href="">UiUIKit (Universal iPhone UI Kit)</a>: It's a collection of HTML examples of what can be done with CSS3 and Safari's Webkit. With this framework you can. This project has +250k downloads. <strong>323 stars rating in Google Code</strong>.</li>
+        </ul>
+        <h3>Companies</h3>
+        <ul>
+          <li><a href="https://fotolog.com">Fotolog.com</a>: the online photo diary with +40M registered users from all around the world.</li>
+          <li><a href="https://furgo.io">Furgo</a>: It is a platform for transporting objects of all kinds. Created and launched in April 2015, today it continues to operate throughout the Spanish territory.</li>
+          <li>Tractis (2007-2012). Digital signature platform and services. Valued at 12M.</li>
+          <li>Mercadelia (2008). Online listings.</li>
+        </ul>
+      </aside>
+    </main>
+    {% include footer-home.html %}
+  </body>
+</html>

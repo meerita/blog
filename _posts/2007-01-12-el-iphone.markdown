@@ -1,0 +1,212 @@
+---
+date: 2007-01-12 20:00:11
+layout: post
+title: El iPhone
+category: apple
+---
+
+¡Ay, ay, ay!… ¡Ay! Lo que acaba de sacar Apple ayer a la luz no tiene palabras: un [teléfono móvil](http://www.apple.com/iphone/). *¿Quién lo iba a pensar?* Gente, es un *prototipo* lo que habéis visto el otro día. No es un modelo de producción final, es como pasarle el dedo índice a la crema de la torta sin haber comido una porción todavía. De todas formas, se avecina un cambio bastante radical en telefonía móvil.
+
+
+
+
+
+Antes de ponerme a escribir lo que pienso de la presentación del otro día, quiero aclararle a resto que no soy un medio de prensa. Tengo la suerte de controlar el 100% de las cosas que pasan aquí, entre ellas, cuando publico y cuando no. No he mencionado palabra porque tenía ganas, primero, leer un poco más y no escribir en plan *paja mental*. Incluso los *blogs* más especializados en opinión sobre el mundo Mac se están tomando un respiro para digerir todo lo que se comentó en la Macworld. Son muchas cosas, algunas bien gordas, que van más allá de unas simples especificaciones, bonita forma y que lindo que se ve el UI. Como comprenderán, es un producto totalmente nuevo para esta empresa que ha dejado de llamarse Apple Computers, Inc. Para adoptar Apple, Inc.
+
+
+### Comentarios del MacWorld ‘07
+
+La presentación la cual pude ver una vez de tirón a eso de la una y media de la mañana hora de Barcelona, fue igual que el resto de las presentaciones de Apple. Mucho no cambia del resto y sigue con su línea y estilo firmado por nada más y nada menos que Steve Jobs. El humor que se respiró en la sala fue grande, incluso cuando se habló de los productos de la competencia.
+
+
+
+Por otro lado, había un hervidero de lugares donde se discutía hasta el último instante lo que pasaría. Es como dice Javier Cañada en su entrada [Macworld patatas fritas y cerveza](http://www.lacoctelera.com/macadamia/post/2007/01/08/macworld-patatas-fritas-y-cerveza):
+
+
+
+
+
+> «De hecho, creo que los keynotes de Jobs son a los maqueros lo que los partidos de fútbol son al resto de la sociedad.»
+
+
+
+
+
+Apple genera esto: un movimiento desenfrenado de buzz, comentarios, rumores y mucho hype. Incluso, en medio de la tormenta.
+
+
+
+
+
+En esta entrega del MacWorld, sólo se presentaron dos productos: [Apple TV](http://www.apple.com/appletv/) y el menos esperado, pero ultra-deseadísimo [iPhone](http://www.apple.com/iphone/). Apple TV es sin duda otro producto todo en uno el cual lleva la firma Apple, y es toda una apuesta a la forma en que consumimos contenidos en la televisión. Tengo *muchísimas* ganas de tener uno, pero debo esperarme a tener una televisión de alta definición y ahora, precisamente, tengo otras prioridades. Apple TV sin dudas será el segundo music store para lo que video fuere, en mi caso, siendo usuario del servicio de compra de música en iTunes y en un futuro, de películas y series de televisión este servicio será el nicho donde vaya a buscar lo que necesito, de forma rápida y sin tener que buscarme la vida como lo hago muchas veces cuando bajo pelis con el eMule.
+
+
+
+
+
+La conferencia se me hizo larga y densa, principalmente porque se sólo se habló del iPhone. A pesar de que se estaba hablando de uno de los productos más esperados, al terminar me quedé con la sensación de que me contaron poco del asunto.
+
+
+
+
+
+### El iPhone
+
+
+
+
+
+El teléfono fue hecho a medida para mí. Sin dudas, este prototipo *le da mil patadas a mi teléfono* Motorola. Llevo mucho tiempo esperando ver algo así: un teléfono realmente funcional, según como se lo mire. En realidad, no es sólo un teléfono. Lo presentaron como tres dispositivos en uno: *un iPod de pantalla ancha, un teléfono revolucionario y un dispositivo de Internet que la rompe*. 3 en 1 y, algo más…
+
+
+
+
+
+*¿Por dónde empiezo?* Tengo un tsunami en mi mente luego de ver el lanzamiento. Son muchas cosas de las que tengo ganas de hablar y, más que seguro, se me escapan detalles. Espero que los comentaristas del blog me complementen mi información.
+
+
+
+
+
+Técnicamente el teléfono supera con creces mis expectativas, aunque la falta de 3G sea motivo de tristeza para muchos, en mi caso, no lo es. No soy un gran dependiente de 3G, sí podría serlo de WiFi y Bluetooth. Aunque tengo compañeros que todo el día, incluso teniendo la posibilidad de conectarse por WiFi y aprovechar esto para navegar, tienen sus tarifas planas de conexión de datos a alta velocidad. De momento, utiliza EDGE, que según cuenta la gente y amigos, es muchísimo más lento que 3G.
+
+
+
+
+
+Tiene una pantalla *gigante*, para mi expectativa, la han hecho bien grande, algo que no se veía en ningún dispositivo de Apple desde hacía tiempo. Las medidas son 3.5 pulgadas de pantalla. Esta ofrece una resolución de 320 por 480 a 160 ppi. No está nada mal.
+
+
+
+
+
+Otra cosa estupenda son los sensores que trae el teléfono: *uno de proximidad*, que desactiva el sistema de tacto de la pantalla cuando se está hablando por el teléfono junto a la oreja. También tiene otros sensores, que detectan cuando el teléfono *es sostenido en forma vertical y cuando se pone de forma horizontal*. Esto permite al software trabajar en otras condiciones. Por ejemplo, mientras miramos fotos que tenemos en el teléfono, hay una que es horizontal. En un teléfono tradicional tendríamos un comando girar, el cual activamos haciendo clics con algún botón, en este caso, usando el iPhone sería sólo girar el teléfono y éste pondría la imagen de forma horizontal aprovechando todo el ancho de la pantalla. Otro de los sensores que no se ha mencionado es uno de *sensibilidad a la luz*: detecta la intensidad de luz exterior al teléfono y adapta la brillantez de la pantalla.
+
+
+
+
+
+Este teléfono *carece totalmente de teclado*. Todo se realiza tocando la pantalla, incluso, la escritura. A simple vista y viendo a Steve Jobs utilizar este aparato es simplemente genial. No tiene stylus, porque según Apple people don’t want stylus. Todo con los deditos. *¿Será limpio el asunto?* Me refiero, *¿no quedará demasiado marcada la pantalla?* Espero que no. Según he leído por ahí, mientras tengas limpias las manos y acostumbres a limpiar la superficie se mantendrá limpia. De esta forma, cambia radicalmente la manera en la que la gente utiliza un teléfono móvil, sólo con los dedos, adiós a los teclados. Diría que es estupendo, pero me temo lo peor: todos los fabricantes usarán esta técnica y, en todo caso, podrían carecer los teléfonos de teclados físicos, lo cual es una terrible ayuda para la gente discapacitada. Recordad que esta gente se beneficia de la superficialidad del teléfono, saben donde están todas las teclas, cuáles son números, cuáles eran letras y viceversa. Atentos a este tema.
+
+
+
+
+
+### OS X
+
+
+
+
+
+El teléfono no corre nada que no sea de otro proveedor. O sea, es el primer teléfono que está montado con tecnología de Apple: OS X. Cuando menciono OS X digo, *parte del sistema operativo* y *no* todo el Mac OS X. Entre Mac OS X y OS X pueden haber diferencias marcadas. Sería ilógico tener todo el Mac OS X en ese teléfono: no habría forma de aprovechar recursos. Es por esto que el teléfono corre con lo justo y necesario. Es genial.
+
+
+
+
+
+Esto le permite al teléfono disfrutar de muchas cosas interesantes, como coverflow, interfaces propias de la fundación Apple en un espacio reducido. Los programas en su mayoría serán compilados e imagino que todo el mundo podrá hacer sus programas para esos teléfonos y widgets. Habrá que esperar para esto último. De la noche a la mañana, sin las aprobaciones correspondientes y las especificaciones reales de mercado no creo que se pueda empezar a desarrollar, pero no estaría nada mal tener un Skype para este teléfono, desde ya.
+
+
+
+
+
+### Las dimensiones del teléfono
+
+
+
+
+
+Si hay cosas que me hacen rechazar un teléfono es el grosor del aparato. Me gustan los teléfonos móviles, delgados casi como el papel si fuera posible. El tema del peso es un factor ideal cuando vas con un aparato todo el día encima. No me gustan los armatostes que hay ahora: demasiado gruesos, pesados y grandes. Siempre que pude, tuve estos patrones de elección, incluso, sacrificando funcionalidades. Este teléfono no es más grande que 110mm de alto por 61mm de ancho y 11,6mm de grosor. Es más fino que mi Motorola V3i y 40 gramos más pesado. Este teléfono pesa 135 gramos, * creo es una pluma*.
+
+
+
+
+
+Por lo que he visto en fotos, y la opinión de un cronista del New York Times, el aparato tiene una estupenda sensación en la mano.
+
+
+
+
+
+### La interfaz del teléfono
+
+
+
+
+
+Si hay algo que hace de Apple todo un maestro es en crear y aplicar con bastante éxito nuevas interfaces en sus dispositivos. En este caso, a pesar de tener una especie de OS X reducido no veréis nada familiar del OS X, bueno, las tipografías. La interfaz es totalmente nueva. Tiene aires de Cupertino, pero no se asemeja totalmente o es un port del OS X. Hay nuevos elementos de navegación, mejor ideados para una pantalla de teléfono.
+
+
+
+
+
+Este teléfono, también es un iPod en todas sus características y algo más. De hecho, vendría a ser la versión mejorada del iPod nano y iPod video. Por su capacidad, igualmente tiene mejoras notables, como la implementación de coverflow y listas. Sin dudas, dará que hablar cuando salgan más imágenes del tema. Cuando uno está visualizando un tema, sólo girando el teléfono se activa el navegador de álbumes llamado coverflow. Con los dedos podemos ir pasando entre la colección y seleccionar un disco, ver su contratapa, hacer scroll en los temas, etc. Una *joyita* de practicidad por lo que se pudo apreciar.
+
+
+
+
+
+Cuando Steve comenzó a mostrar el sistema para llamar por teléfono fue bastante impactante. Con una facilidad, una agilidad y en unos pocos toques llamas de una forma graciosa a alguien. Todo está integrado en gran parte con la agenda de datos del Mac OS X. Algo imprescindible si quieres tener sincronizado con tu móvil o iPod los contactos. Les recomiendo ir utilizando esta herramienta, yo llevo unos años y la verdad me viene de maravillas. Esta base de contactos se porta el iPhone, y con eso no tenemos que tipear nunca más un teléfono. En todo caso, podemos realizar llamadas marcando un número. Pero para ello el iPhone dispone de un teclado pantalla casi completa, números grandes.
+
+
+
+
+
+La aplicación para gestionar el correo y los SMS es simplemente genial. El correo parece estar totalmente integrado con el Mac. Soporta bastantes cosas como IMAP y POP3, Exchange y YahooMail. Los usuarios de GMail podrán disfrutar de los correos de la misma forma que lo hacen en sus Macs. Pero lo que realmente me gustó fueron los SMS, algo que es parte de mi vida ya. Mi problema es que, las interfaces actuales no me ayudan a recordar de que iban las conversaciones. Todo el embrollo de SMS es demasiado lineal. Pero la aplicación para los SMS es como si tuviéramos iChats abiertos. Además de ser vistosos, son cómodos de entender, nada más viendo cómo se envían mensajes ya dan ganas de tener un teléfono así.
+
+
+
+
+
+Luego está iPhoto. Podemos tener nuestras listas de fotografías, importadas directamente desde nuestro iPhoto. No sé como se manejarán en el mundo PC y el iPhone ya que, creo que *será necesario un programa como iPhoto en Windows* para poder tener la base de datos y las cosas necesarias para construir álbumes de fotos en el iPhone. Lo cierto es: las fotos se pueden navegar en calidad alta. Con los dedos, otra vez, podemos controlar casi todo: navegar los álbumes, hacer zoom –recomiendo ver esto, así como también rotar fotos sólo inclinando de forma horizontal el teléfono. Se pueden enviar fotos por correo en un *pis pas*, y no faltaba la opción de usar de fondo de pantalla del teléfono.
+
+
+
+
+
+### Las incógnitas
+
+
+
+
+
+Pero a pesar que se habló casi dos horas seguidas de un solo teléfono, quedan grandes incógnitas por averiguar. Las que menos me preocupan ahora son: qué memoria tiene el aparato, que procesador lleva y que chips de radio utiliza. Luego, están los servicios que se pueden utilizar, como 3G u otras vías mejorcitas que EDGE.
+
+
+
+
+
+La que más me preocupa ahora es: *¿se podrá adquirir libremente? ¿cuánto costará en España? ¿Podré instalar Skype y realizar llamadas a todo el mundo usando Vo-IP?*
+
+
+
+
+
+Yo soy usuario de Vodafone. Me gusta el servicio que ofrecen, no he tenido ningún problema y, para viajar por Europa es de lo mejorcito que he probado. Me gustaría poder seguir en este plan: comprar mi teléfono iPhone libremente y sin tener que firmar ningún contrato de 2 años. Aunque, en caso de no poder ser así, tendré que cambiarme de operador y firmar contrato por dos años.
+
+
+
+
+
+No he visto como funciona el calendario. Imagino, será algo similar pero con más input que las versiones que tenemos en el iPod. Una compatibilidad del 200% con la aplicación iCal que tiene Mac. No sé que tan bien se llevará con Exchange, pero, lo que he leído en el NYT: Is there a calendar? –Yes. Will it sync with Outlook? –No.
+
+
+
+
+
+*¿Cuánto costará en España?* Es otra de las preguntas que me interesaría saber. *¿Saldrá 499 euros, operador incluido?*. Habrá que esperar a final de año, así que tenemos tiempo de ahorrar. En caso de poder adquirirse libre, *¿costará doscientos euros más caro?* Calculo que un dispositivo libre puede costar alrededor de los 200-300 Euros más caro que adquirirlo con planes incluídos. Aunque mis sospechas rondan lo 900 y 1000 Euros para un precio libre de este aparato.
+
+
+
+
+
+*¿Podré instalar otras aplicaciones?* Según las palabras de Steve Jobs en unas entrevistas, sí. Pero habrá más control, según lo especifica Jobs. Quiere que el entorno de iPhone sea casi como el del iPod. No es que quieran tener todo el software hechos por ellos pero lo que no quieren es que se les escape de las manos, decisión extraña ha tomado la compañía. Me encantaría instalar una versión de Skype en este teléfono y realizar llamadas a Buenos Aires con una conexión WiFi que siempre utilizo cuando estoy en el bar tomando café.
+
+
+
+
+
+En diciembre voy a tener el mío, así, como venga. Quiero ser otro de los early adopters del producto y poder disfrutar de un teléfono multimedia con todas las letras.
+
+
+*¿Tu opinión cuál es?*

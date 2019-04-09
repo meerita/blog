@@ -1,0 +1,12 @@
+<section class="padding--16">
+  <hr>
+  <p class="margin--0">
+  {% if page.previous.url %}
+    <strong>Previous:</strong> {{ page.previous.date | date: "%B %d, %Y" }} <a class="prev" href="{{page.previous.url}}">{{ page.previous.title }}</a>
+  {% endif %}
+  <br>
+  {% if page.next.url %}
+    <strong>Next:</strong>  {{ page.previous.date | date: "%b %d" }}  <a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
+  {% endif %}
+  </p>
+</section>
