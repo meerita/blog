@@ -1,0 +1,162 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Descubre el fabuloso mundo de SVG - Minid.net – Diego Martin Lafuente's personal website & blog</title>
+    <style>
+      html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}body{margin:0}pre{font-family:monospace, monospace;font-size:1em}code,kbd,samp{font-family:monospace, monospace;font-size:1em}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}.background-color--1{background-color:#ffd}.background-color--2{background-color:#ff6}.background-color--3{background-color:#ffffc9}.background-color--4{background-color:#ccf6f6}.display--grid{display:grid}.font-weight--200{font-weight:200}.font-weight--400{font-weight:400}.font-weight--800{font-weight:800}.font-weight--normal{font-weight:normal}.font-weight--bold{font-weight:bold}@media (min-width: 768px){.md-grid-column--1{grid-column:span 1/span 1}.md-grid-column--2{grid-column:span 2/span 2}.md-grid-template-columns--1{grid-template-columns:repeat(1, 1fr)}.md-grid-template-columns--2{grid-template-columns:repeat(2, 1fr)}}.list-style--none{list-style:none}.list-style--decimal{list-style:decimal}.list-style--disc{list-style:disc}.list-style--square{list-style:square}.margin--0{margin:0px}.margin--8{margin:8px}.margin-top--0{margin-top:0px}.margin-top--8{margin-top:8px}.margin-bottom--0{margin-bottom:0px}.margin-bottom--8{margin-bottom:8px}.margin-left--0{margin-left:0px}.margin-left--8{margin-left:8px}.margin-right--0{margin-right:0px}.margin-right--8{margin-right:8px}.padding--0{padding:0px}.padding--16{padding:16px}.padding--32{padding:32px}.padding-top--0{padding-top:0px}.padding-top--16{padding-top:16px}.padding-top--32{padding-top:32px}.padding-bottom--0{padding-bottom:0px}.padding-bottom--16{padding-bottom:16px}.padding-bottom--32{padding-bottom:32px}.padding-left--0{padding-left:0px}.padding-left--16{padding-left:16px}.padding-left--32{padding-left:32px}.padding-right--0{padding-right:0px}.padding-right--16{padding-right:16px}.padding-right--32{padding-right:32px}.text-transform--capitalize{text-transform:capitalize}.width--100{width:100%}.width--auto{width:auto}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif}h1{font-size:2.125rem}h2{font-size:1.75rem}h3{font-size:1.375rem}p,ul,ol,blockquote{font-size:1.0625rem;line-height:1.6rem}@media (min-width: 768px){.c-article{padding:64px}}.font-family--sans{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif}
+
+    </style>
+  </head>
+  <body class="c-body">
+    <header class="background-color--2 padding--16">
+  <a href="/"><strong>minid.net:</strong></a> &rarr; <a href="" class="text-transform--capitalize">desarrollo</a>
+</header>
+    <main>
+      <article class="padding--16 c-articles">
+        <h4><a href="/archives/" title="List of all blog posts">Minid the blog</a>, October 26, 2012:</h4>
+        <h1>Descubre el fabuloso mundo de SVG</h1>
+        <section>
+          
+        </section>
+      <p>Entonces tú querías aprender SVG y has llegado a este artículo. <strong>Pues éste es el momento.</strong> Ni dentro de 5 años, ni en 10… <strong>ahora</strong>. SVG ya está presente y pocos le dan la suficiente atención. Pero no importa, te voy a explicar todo básico sobre SVG para que empieces por tu lado a investigar, probar e, implementar, claro.</p>
+
+<figure class="draw">
+  <img src="/images/camiseta-boca.svg" />
+</figure>
+
+<p>Esta bonita imagen que ves, con todos esos colores, además de ser la ilustración de uno de los conjuntos oficiales utilizados en el 2012 por el glorioso, Rey de Títulos, Club Atlético Boca Juniors (del cual no voy a negar mi eterna fidelidad) también es <strong>una imagen en formato SVG</strong>. Si miras el código de la imagen, observarás que es XML.</p>
+
+<p><em>¿Y de bueno qué tiene esto? –Se parece mucho a una imagen JPG, PNG o GIF.–</em> Bueno, es cierto, en calidad se parece mucho al resultado que daría un GIF o un PNG, pero si tienes un iPad 2 o 3 (o cualquier otro tablet con Android), puedes hacer una ampliación y, como podrás observar, <strong>la calidad no se ha perdido</strong>, no hay «pixelización» alguna de la imagen.</p>
+
+<p>Esto se debe porque el formato del archivo es vectorial y no es una imagen bitmap: no pierde calidad y asegura la <em>independencia de resolución</em>.</p>
+
+<h3 id="independencia-de-resolución">Independencia de resolución</h3>
+
+<p>En el actual estado de permanente expansión y crecimiento tecnológico, todos los días hay novedades en formas de visualización HiDPI. Salen nuevos teléfonos inteligentes, tabletas y nuevos ordenadores con tecnología que, literalmente, en muchos casos duplican (y hasta cuadriplican) la cantidad de pixeles por pulgada en cada dispositivo, dando por resultado imágenes con un notable crecimiento de detalle y definición.</p>
+
+<p>Esta concepto tecnológico, que fue creado en 1978 por Donald Knuth, permite que el software y el resultado visual de éste sea independiente de la resolución destino. Cada dispositivo podrá mostrar de la mejor forma algo, sin lugar a pérdida.</p>
+
+<p>Si bien en materia ordenadores esta tecnología todavía está en pañales, en 5 años probablemente todos los fabricantes ya tendrán modelos HiDPI <em>de toda</em> su línea de ordenadores y sus tabletas digitales. Apple, por ejemplo, <em>ya tiene el primer portátil</em> con tecnología HiDPI que ellos mismos denominan comercialmente como <a href="http://en.wikipedia.org/wiki/Retina_Displays">Retina Display</a>.</p>
+
+<p>¿Y a qué viene que exista más resolución? Como acabo de explicar antes, estos dispositivos aumentan la cantidad de pixeles por pulgada haciendo que muchas cosas aumenten en definición, sobre todo aquellas que son, por antonomasia, formada por vectores. Lo primero que notas con un dispositivo HiDPI es que el texto está mejor definido. Esa es la primera. La segunda es que muchos de los efectos hechos en CSS, algunas cajas y elementos del sistema operativo están perfectamente dibujados en pantalla. Lo único que realmente ves hecho una mierda son las imágenes.</p>
+
+<p>Las imágenes fueron creadas en general para dispositivos que tienen la relación 1:1 de pixeles. O sea, para los ordenadores y dispositivos como los nuestros, que no son HiDPI. Para que las imágenes se miren bien en una pantalla HiDPI hay que hacerlas el doble de grandes y reducirlas al tamaño que las queremos mostrar para que los monitores antiguos puedan mostrarla y los monitores HiDPI puedan aprovechar todos los pixeles disponibles de pantalla, lo que resulta en usar siempre imágenes el doble de grandes, más peso, más lenta la descarga del sitio será.</p>
+
+<p>Existen más técnicas raras, que involucran el olfateo de dispositivos y así sirven una imagen u otra, terminando en un caos de comprobaciones. Pero esto, gracias a la tecnología, sólo involucra a las fotografías y no a aquellas imágenes bidimensionales formadas por vectores.</p>
+
+<p>La independencia de resolución es uno de los conceptos más importantes de esta década y viene para quedarse. Viene a ser de importante como los estándares web en los años 1999 y 2000. Los desarrolladores ya tienen que pensar en desarrollar un producto que se pueda ver en diferentes dispositivos con diferentes capacidades de resolución. Quien obvie esto simplemente se está obligando a trabajar de más en un futuro, o en tirar todo el trabajo hecho, o bien exponerse a una horrible visualización de su contenido.</p>
+
+<h3 id="qué-es-svg">Qué es SVG</h3>
+
+<p>SVG básicamente <strong>es un modelo de imagen bidimensional basado en XML estándar.</strong> Fue ideado en 1998, pero no fue hasta 1999, según las fuentes, cuando empezó a despegar como desarrollo. La fecha marcada por Wikipedia es el <a href="http://www.w3.org/TR/SVG10/">4 de septiembre de 2001</a> que es cuando el W3C denomina como «recomendación» al lenguaje. Eso ocurrió hace 11 años, amigos.</p>
+
+<p>En 11 años, SVG creció sin parar, tanto en adopción de navegadores, como adopción por parte de los fabricantes de software. Adobe, uno de los pioneros en el tema (fue el que introdujo el lenguaje PGML que más adelante fomentaría la creación de SVG junto a la absorbida Macromedia) empezó a soportar SVG como formato gráfico en sus aplicaciones vectoriales. Hoy en día, puedes trabajar con SVG en ADobe Illustrator® sin ningún problema. Si no tienes la oportunidad de usar este software privativo, puedes optar por la excelente y nada incompleta solución vectorial Inkscape, u otras: iDraw, Sketch, etc. Pero lo más alucinante de SVG es que puedes crear imágenes a partir de código, a diferencia de otros formatos, XML tiene un idioma digerible por un humano, haciendo de éste un formato ideal para servirlo por partes o bien para modificar o animar determinadas partes del mismo.</p>
+
+<p>¿Cómo se conforma un archivo SVG? Si entiendes XML te será muy fácil, nos basta con abrir un nuevo documento .svg en nuestro editor y escribir esto:</p>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span class="cp">&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;</span>
+ <span class="nt">&lt;svg</span>
+   <span class="na">version=</span><span class="s">"1.1"</span>
+   <span class="na">xmlns=</span><span class="s">"http://www.w3.org/2000/svg"</span>
+   <span class="na">xmlns:xlink=</span><span class="s">"http://www.w3.org/1999/xlink"</span>
+   <span class="na">x=</span><span class="s">"0px"</span>
+   <span class="na">y=</span><span class="s">"0px"</span>
+   <span class="na">width=</span><span class="s">"500px"</span>
+   <span class="na">height=</span><span class="s">"500px"</span>
+   <span class="na">xml:space=</span><span class="s">"preserve"</span><span class="nt">&gt;</span>
+   <span class="nt">&lt;polygon</span> <span class="na">points=</span><span class="s">"30,100 30,468 473,468 473,218 302,30 "</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;/svg&gt;</span></code></pre></figure>
+
+<p>Y con eso ya hemos creado <strong>un primer documento SVG</strong> con una figura primitiva no muy difícil de dibujar. Es un pentágono. Y el resultado de este código sería esta imagen que veis a continuación:</p>
+
+<figure class="draw">
+  <img src="/images/test.svg" alt="Pentágono generado con SVG" />
+</figure>
+
+<p>Podrán observar que el elemento <code class="highlighter-rouge">svg</code> tiene un montón de atributos uno debajo del otro, simplemente lo hice así como ejemplo porque todo no puede entrar normalemente de forma horizontal. Si desnudamos el código ofrecido, la imagen se reduce todo al elemento <code class="highlighter-rouge">&amp;lt;polygon&amp;gt;</code>.  Este elemento se define por puntos y para que entendamos cómo se forman cada puntos tengo este gráfico (hecho en SVG, claro) que explica la anatomía de los puntos en un gráfico simple de SVG:</p>
+
+<figure class="draw">
+  <img src="/images/svg-anatomia.svg" alt="Anatomía de SVG" />
+</figure>
+
+<p>Como pueden observar, cada punto está definido por una serie de códigos numéricos, como lo es <code class="highlighter-rouge">30,100</code>. Este código simplemente define un punto en el eje <strong>x 30</strong> y en el eje <code class="highlighter-rouge">Y 100</code>. Cada punto va definido así, separados por un espacio. Los puntos pueden ser incluso más precisos, podemos especificar puntos luego de cada valor, como por ejemplo:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>300.298,300.889
+</code></pre></div></div>
+
+<p>Este ejemplo de código simplemente nos diría que ese punto en el documento SVG se encontraría en el eje <code class="highlighter-rouge">X=300.298</code> y en el eje <code class="highlighter-rouge">Y=300.889</code>. El resultado es posible que sea horrible ya que el valor <code class="highlighter-rouge">1</code> equivale a 1 pixel en este caso, el eje Y estaríamos hablando ya de casi un pixel extra, si fuera un monitor con Retina es probable que veas bien todo pero en un monitor normal, verías quizás un difuminado.</p>
+
+<p>El orden de serie de estos puntos es indiferente, ya que podemos empezar la serie de atrás para adelante y obtener la misma forma primitiva.</p>
+
+<p>Pero esperen, SVG <strong>no es así de fácil</strong> cuando se trata de hacer, como en mi caso, una camiseta más arriba en este artículo. Eso es más complicado e imposible de hacer prácticamente a mano ciertas ilustraciones pero muchas otras sí son posible.</p>
+
+<p>Lo bueno de SVG a diferencia de otros formatos gráficos es que <strong>podemos cambiar el código fuente y alterar el contenido de cualquier imagen</strong>, ya sea a mano usando el editor y subiéndolo de nuevo al servidor o bien manipulándolo con Javascript.</p>
+
+<p>En las siguientes entregas de este macro-artículo veréis diferentes temas relacionados con el código, ahora me quiero centrar en la parte introductoria.</p>
+
+<h3 id="compatibilidad">Compatibilidad</h3>
+
+<p>Como toda tecnología, lleva su tiempo para que se adopte en todos los ámbitos. SVG era impensable en el 2003, pero en el 2012 ya es bien factible, si desarrollas realizando métodos de detección para servir el contenido adecuado según el rango de navegadores. Aquellos que son modernos se beneficiarán increíblemente en comparación con aquellos que no. Los usuarios de navegadores antiguos pueden seguir viendo la web como tal y no se liarían a hostias.</p>
+
+<p>El soporte básico de SVG es <a href="http://caniuse.com/#cats=SVG">actualmente soportado</a> por los siguientes navegadores en su versión mínima en adelante:</p>
+
+<ul>
+  <li>
+    <p>Internet Explorer: 9</p>
+  </li>
+  <li>
+    <p>Firefox: 3</p>
+  </li>
+  <li>
+    <p>Chrome: 4</p>
+  </li>
+  <li>
+    <p>Safari: 3.2</p>
+  </li>
+  <li>
+    <p>Opera: 9</p>
+  </li>
+  <li>
+    <p>Safari iOS: 3.2</p>
+  </li>
+  <li>
+    <p>Opera mini: 5</p>
+  </li>
+  <li>
+    <p>Opera mobile: 10</p>
+  </li>
+  <li>
+    <p>Chrome en (android): 18</p>
+  </li>
+  <li>
+    <p>Firefox en (android): 15</p>
+  </li>
+</ul>
+
+<p>Como pueden ver la adopción es masiva, pero sólo una parte de SVG. SVG se compone de varios módulos, algunos más avanzados que otros y otros todavía están en el nivel de «borrador» y no están, siquiera, implementados todavía en algunos navegadores, pero bueno, de aquí a 5 años el soporte de éstos será total y garantizado. Igualmente, para lo básico que puede llegar a ser ilustraciones de páginas web, SVG es sin dudas es una bendición y no debería causar muchos problemas.</p>
+
+<p>Las cosas que no están totalmente soportadas por completo, o simplemente de forma parcial son los módulos de SVG Filters y SVG CSS Background. SVG Filters, básicamente, son filtros para conseguir efectos gráficos potentes en nuestras imágenes de SVG. Un ejemplo de filtro es “blur”, por ejemplo. El otro módulo que no está 100% soportado pero que lo será en muy poquito tiempo es CSS Backgrounds y tienen algunos inconvenientes en algunos navegadores de momento.</p>
+
+      </article>
+    </main>
+    <section class="padding--16">
+  <hr>
+  <p class="margin--0">
+  
+    <strong>Previous:</strong> October 21, 2012 <a class="prev" href="/blog/2012/10/21/alamut/">Alamut</a>
+  
+  <br>
+  
+    <strong>Next:</strong>  Oct 21  <a class="next" href="/blog/2012/11/09/deja-ya-de-procrastinar-e-inicia-proyectos-paralelos/">Deja de ya de Procrastinar e inicia proyectos paralelos</a>
+  
+  </p>
+</section>
+    <footer class="padding--16">
+  <p class="margin--0"><span class="background-color--2">See also:</span> complete <a href="/archives/">list of other blog posts</a></p>
+</footer>
+  </body>
+</html>
