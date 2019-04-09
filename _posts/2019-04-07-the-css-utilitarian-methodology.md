@@ -1,7 +1,6 @@
 ---
 title: The CSS Utilitarian Methodology
 layout: post
-date: '2019-04-27 19:14:36'
 category: CSS
 summary: We have been programming CSS for a long time wrong. It's time to move forward.
   By using the CSS Utilitarian Methodology, the size of the CSS files is drastically
