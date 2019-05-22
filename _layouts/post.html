@@ -9,16 +9,16 @@
       {% include styles.css %}
     </style>
   </head>
-  <body class="c-body">
+  <body class="font-family--sans">
     {% include nav-posts.html %}
     <main>
-      <article class="padding--16 c-articles">
+      <article class="padding--16 color--green c-articles">
         <h4><a href="/archives/" title="List of all blog posts">Minid the blog</a>, {{ page.date | date: "%B %d, %Y" }}:</h4>
         <h1>{{ page.title }}</h1>
         <section>
           {% if page.summary %}
-          <blockquote class="padding--16 background-color--3 border-width--1 border-color--1 border-style--solid">
-            <h4 class="margin--0">Sumario:</h4>
+          <blockquote class="padding--16 background-color--3">
+            <h4 class="margin--0">Summary:</h4>
             <p class="margin--0 padding--0">{{ page.summary }}</p>
           </blockquote>
           {% endif %}
