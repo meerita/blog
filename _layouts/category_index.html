@@ -2,8 +2,12 @@
 layout: category_layout
 ---
 
-<ul class="padding-left--0 margin-top--0 list-style--none">
-{% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date  | date: "%b %d" }})</li>
-{% endfor %}
-</ul>
+{% if site.categories[page.category] %}
+  <ul class="padding-left--0 margin-top--0 list-style--none">
+    {% for post in site.categories[page.category] %}
+      <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a> ({{ post.date  | date: "%b %d" }})</li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>There are no posts in this category.</p>
+{% endif %}
