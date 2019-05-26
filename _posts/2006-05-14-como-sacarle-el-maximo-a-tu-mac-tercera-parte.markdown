@@ -16,9 +16,6 @@ En esta tercera entrega, hablaré de dos programas esenciales en un Mac: [Textpa
 
 
 
-<!-- more -->
-
-
 
 #### El problema era, o más bien, tenía tiempo y comencé a optimizar
 

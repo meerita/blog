@@ -1,0 +1,9 @@
+---
+layout: category_layout
+---
+
+<ul class="padding-left--0 margin-top--0 list-style--none">
+{% for post in page.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date  | date: "%b %d" }})</li>
+{% endfor %}
+</ul>
