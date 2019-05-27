@@ -25,14 +25,14 @@ enforce_ssl: infobagreonline.com
 twitter_username: minid
 github_username:  meerita
 permalink: /:year/:month/:day/:title/
-include: ["_pages"]
-
+category_path: "categoria"
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-admin
+  - jekyll-category-pages
 sass:
   style: compressed
 environment: production
