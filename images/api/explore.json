@@ -1,0 +1,42 @@
+{
+  "escooter": {
+    "id": 1,
+    "groups": 520
+  },
+  "bycicle": {
+    "id": 2,
+    "groups": 70
+  },
+  "ebikes": {
+    "id": 3,
+    "groups": 300
+  },
+  "euc": {
+    "id": 4,
+    "groups": 76
+  },
+  "bike": {
+    "id": 5,
+    "groups": 88
+  },
+  "car": {
+    "id": 6,
+    "groups": 450
+  },
+  "boat": {
+    "id": 7,
+    "groups": 20
+  },
+  "inline-skate": {
+    "id": 8,
+    "groups": 330
+  },
+  "glider": {
+    "id": 9,
+    "groups": 5
+  },
+  "airplanes": {
+    "id": 10,
+    "groups": 20
+  }
+}

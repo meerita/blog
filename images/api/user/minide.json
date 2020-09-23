@@ -1,0 +1,160 @@
+{
+  "info": {
+    "username": "Minide",
+    "created": "2020-01-03",
+    "created_at": "2020-01-03T01:05:19.497Z",
+    "email": "dlafuente@gmail.com",
+    "visible": "visible",
+    "id": 1,
+    "level": 1,
+    "kms": 1950,
+    "name": "Minide",
+    "vehicle": "Dualtron Thunder",
+    "updated_at": "2020-01-28T10:09:12.859Z",
+    "image": "http://localhost:3000/images/users/minide.jpg",
+    "worldrank": 1,
+    "location": "Barcelona, Spain",
+    "bio": "Master of Dualtron Thunder, conqueror or the Maresme and Corserolla. I ocassionally have a life outside e-scooters."
+    },
+    "setup": {
+      "highlight": {
+        "vehicle": {
+          "id": 1,
+          "name": "Dualtron Thunder",
+          "image": "http://localhost:3000/images/users/minide.jpg",
+          "type": "e-scooter"
+        },
+        "other": {
+          "name": "Shark Vancore",
+          "image": "http://localhost:3000/images/users/minide.jpg",
+          "type": "Helmet"
+        } 
+      },
+      "electronics": [
+          {
+            "name": "iPhone 11 Max",
+            "type": "phone"
+          },
+          {
+            "name": "GoPro 7",
+            "type": "camera"
+          },
+          {
+            "name": "Garmin Edge 820",
+            "type": "gps"
+          }
+        ],
+      "vehicles": [
+          {
+            "name": "Weped SS",
+            "type": "e-scooter"
+          },
+          {
+            "name": "Dualtron Thunder",
+            "type": "e-scooter"
+          },
+          {
+            "name": "Cannondale Trail 29er 3",
+            "type": "mtb"
+          }
+      ],
+      "accesories": [
+          {
+            "name": "Magura MT7-E",
+            "type": "brakes"
+          },
+          {
+            "name": "QIKU Carbon Fiber",
+            "type": "stem"
+          },
+          {
+            "name": "Alfa Pasca MTB Carbon Fiber",
+            "type": "handlebar"
+          },
+          {
+            "name": "Race Face Half Nelson",
+            "type": "grips"
+          }
+      ],
+      "gear": [
+          {
+            "name": "Shark Vancore",
+            "type": "helm"
+          },
+          {
+            "name": "Alphinestars SMX-1 Air",
+            "type": "gloves"
+          }
+      ]
+    },
+    "stats": {
+      "current_month": {
+        "month": 4,
+        "distances": [18, 32, 65, 78, 53, 5, 9, 28, 41, 13, 27, 57, 780, 232]
+      },
+      "top_speed": [82.6,78.6,71.6,66.9],
+      "slope": [430,234,674,283,1201,13],
+      "worldrank": 1,
+      "country": {
+        "country": "es",
+        "rank": 1
+      },
+      "this_year":
+        {
+          "total_distance": 1289.45,
+          "most_distance_single_ride": 72.6,
+          "top_speed": 86.3,
+          "rides": 56,
+          "worldrank": 1,
+          "continent": {
+            "continent": "eu",
+            "rank": 1
+          },
+          "country": {
+              "country": "es",
+              "rank": 1
+            },
+          "province": {
+              "province": "バルセロナ",
+              "province_translated": "Barcelona",
+              "rank": 1
+            }
+        },
+      "2019": {
+        "distance": 8378
+      },
+      "2018": {
+        "distance": 2536
+      }
+    },
+    "groups": [
+      {
+        "id": 1,
+        "title": "Ruteros",
+        "description": "Grupo de VMP de alta velocidad y emoción nocturna por Barcelona. Salimos casi todas las noches por sobre las 23 y hacemos rutas de tipo offroad, pueblos, ciudad, lo que venga. Cualquier VMP con más de 50km de rango es bienvenido.",
+        "members": 5,
+        "image": "http://localhost:3000/images/groups/ruteros.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Dualtron Thunders",
+        "description": "Sólo Dualtron Thunders aquí.",
+        "members": 48,
+        "image": "http://localhost:3000/images/groups/ruteros.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Offorad Barcelona",
+        "description": "Salidas por la montaña, tierra y barro",
+        "members": 127,
+        "image": "http://localhost:3000/images/groups/ruteros.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Barcelona en VMP",
+        "description": "Grupo de VMP de Barcelona",
+        "members": 236,
+        "image": "http://localhost:3000/images/groups/ruteros.jpg"
+      }
+    ]
+}

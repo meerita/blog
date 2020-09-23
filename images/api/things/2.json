@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "category": "euc",
+  "title": "Kingsong 16X",
+  "image": "http://localhost:3000/images/products/thunder.png",
+  "owners": "176382",
+  "price": 2300,
+  "fulml_spec": {
+    "brand": "Kingsong",
+    "model": "16X",
+    "battery": "84V",
+    "potency": "2200W",
+    "motors": 1,
+    "range": 160,
+    "speed": 85,
+    "weight": 24.3
+  },
+  "buyable": "yes",
+  "affiliation": "http://toamazon.com"
+}

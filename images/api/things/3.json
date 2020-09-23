@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "category": "electronics",
+  "title": "iPhone 11 Pro Max",
+  "image": "http://localhost:3000/images/products/thunder.png",
+  "owners": "176382",
+  "price": 1190,
+  "fulml_spec": {
+    "brand": "Apple",
+    "model": "11 Max",
+    "weight": 24.3,
+    "capacity": "64GB",
+    "weight": 226
+  },
+  "buyable": "yes",
+  "affiliation": "http://toamazon.com"
+}

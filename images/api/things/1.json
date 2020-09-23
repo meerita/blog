@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "category": "escooter",
+  "title": "Dualtron Thunder",
+  "image": "http://localhost:3000/images/products/thunder.png",
+  "owners": "283991",
+  "price": 3599,
+  "fulml_spec": {
+    "brand": "Minimotors Dualtron",
+    "model": "Thunder",
+    "battery": "59.2V 34.8Ah",
+    "potency": "5400W Dual",
+    "motors": 2,
+    "range": 120,
+    "speed": 85,
+    "weight": 43
+  },
+  "buyable": "yes",
+  "affiliation": "http://toamazon.com"
+}

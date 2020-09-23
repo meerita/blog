@@ -1,26 +1,18 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>{{ site.title }}</title>
     <style>
       {% include styles.css %}
     </style>
   </head>
-  <body class="font-family--sans"> 
-    {% include nav-home.html %}
-    <h1 class="padding--32 padding-left--16 padding-right--16 margin--0">Archives</h1>
-    <main>
-      <article class="padding--16">
-        <ul class="padding-left--0 margin-top--0 list-style--none">
-        {% for post in site.posts %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date  | date: "%b %d" }})</li>
-        {% endfor %}
-        </ul>
-      </article>
-    </main>
-    {% include footer-home.html %}
+  <body class="font-family--sans">
+    {{content}}
   </body>
 </html>

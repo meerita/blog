@@ -1,0 +1,252 @@
+{
+    "events": {
+      "active": [
+        {
+          "id": "1",
+          "title": "Vuelta improvisada por el Horta y algo de offroad",
+          "mileage": "40.3",
+          "when": "2020-02-01T01:05:19.497Z",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "vehicle": "scooter",
+          "visible": "yes",
+          "participants": "10",
+          "leader":
+            {
+              "name": "Timcuqui",
+              "vehicle": "FLJ K3",
+              "image": "http://localhost:3000/images/users/timcuqui.jpg"
+            }
+          
+        },
+        {
+          "id": "2",
+          "title": "Salida por el maresme y visitando pueblos",
+          "mileage": "62.3",
+          "when": "2020-02-01T01:05:19.497Z",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "vehicle": "scooter",
+          "visible": "yes",
+          "participants": "10",
+          "leader":
+            {
+              "name": "Minide",
+              "vehicle": "Dualtron Thunder",
+              "image": "http://localhost:3000/images/users/minide.jpg"
+            }
+          
+        }
+    ],
+      "past": [
+        {
+          "id": "3",
+          "title": "El mensajero ecológico",
+          "mileage": "31.7",
+          "participants": "1",
+          "leader": "Joan",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z" 
+        },
+        {
+          "id": "4",
+          "title": "Buscando SEUR",
+          "mileage": "25.7",
+          "participants": "1",
+          "leader": "Hont Wheel",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z" 
+        },
+        {
+          "id": "5",
+          "title": "En búsqueda de mascarilla 😷 y caídas jajaja 😂 V2",
+          "mileage": "25.7",
+          "participants": "1",
+          "leader": "Hont Wheel",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z" 
+        },
+        {
+          "id": "6",
+          "title": "Badalona Family",
+          "mileage": "16.9",
+          "participants": "1",
+          "leader": "Tonijo García Cruz MassCity010",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z" 
+        },
+        {
+          "id": "7",
+          "title": "Apocalipsis",
+          "mileage": "30.3",
+          "participants": "1",
+          "leader": "Minide",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z" 
+        },
+        {
+          "id": "8",
+          "title": "Chiquichiqui",
+          "mileage": "10.4",
+          "participants": "1",
+          "leader": "Minide",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z"
+        },
+        {
+          "id": "9",
+          "title": "Joan",
+          "mileage": "10.4",
+          "participants": "1",
+          "leader": "Tonijo García Cruz MassCity010",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z"
+        },
+        {
+          "id": "10",
+          "title": "Epic ride with dual motors",
+          "mileage": "58.8",
+          "participants": "1",
+          "leader": "Minide",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z"
+        },
+        {
+          "id": "11",
+          "title": "Llegando a los 82km/h",
+          "mileage": "37.9",
+          "participants": "1",
+          "leader": "Minide",
+          "image": "https://4.bp.blogspot.com/-v-WcZAYASdQ/T6o7_EWYV9I/AAAAAAAAAaY/sb95ZTrLnvU/s1600/Laberinto-de-la-Horta.jpeg",
+          "when": "2020-02-01T01:05:19.497Z"
+        }
+      ]
+    },
+    "information": {
+      "title": "Ruteros",
+      "description": "Grupo de VMP de alta velocidad y emoción nocturna por Barcelona. Salimos casi todas las noches por sobre las 23 y hacemos rutas de tipo offroad, pueblos, ciudad, lo que venga. Cualquier VMP con más de 50km de rango es bienvenido.",
+      "location": "Barcelona",
+      "Group Policy": "1",
+      "Founded": "2020-02-01T01:05:19.497Z",
+      "image": "http://localhost:3000/images/groups/ruteros.jpg"
+    },
+    "stats": {
+      "current_month": {
+          "toprider": {
+          "username": "Minide",
+          "image": "http://localhost:3000/images/users/minide.jpg",
+          "mileage": "780",
+          "vehicle": "Dualtron Thunder",
+          "pro": "true"
+        },
+        "fasterrider": {
+          "username": "Timcuqui",
+          "image": "http://localhost:3000/images/users/timcuqui.jpg",
+          "speed": "82.3",
+          "vehicle": "FLJ K3",
+          "pro": "false"
+        },
+        "slope": {
+          "topmeter": "400"
+        },
+        "topspeeds": {
+          "topspeed": "82.6",
+          "latest": [{
+            "May": "78.2",
+            "April": "67.3",
+            "March": "89.1"
+          }]
+        }
+      },
+      "overall": {
+        "events": {
+          "events_this_year": "20",
+          "most_active": "Joan",
+          "messages": "30",
+          "events_total": "3738"
+        },
+      "mileage": {
+        "total_by_group": "3948",
+        "only_this_year": "17800",
+        "most_made_by_rider_this_year": "2378.25",
+        "most_made_by_rider_single": "89.2",
+        "top_rider": "Viso36"
+        },
+        "Ranks": {
+          "World": "350",
+          "Country": "spain",
+          "country_rank": 25,
+          "region": "Europe",
+          "region_rank": "39",
+          "city": "Barcelona",
+          "city_rank": "1"
+        }
+      }
+    },
+    "members":
+      [
+        {
+        "created": "2020-01-03",
+        "created_at": "2020-01-03T01:05:19.497Z",
+        "email": "dlafuente@gmail.com",
+        "id": 1,
+        "level": 1,
+        "kms": "1950",
+        "name": "Minide",
+        "vehicle": "Dualtron Thunder",
+        "updated_at": "2020-01-28T10:09:12.859Z",
+        "image": "http://localhost:3000/images/users/minide.jpg",
+        "worldrank": 1
+        },
+        {
+          "created": "2020-02-10",
+          "created_at": "2020-02-10T01:05:19.497Z",
+          "email": "viso@gmail.com",
+          "id": 2,
+          "level": 0,
+          "kms": "6849",
+          "name": "Viso",
+          "vehicle": "Kingsong S16",
+          "updated_at": "2020-01-28T10:09:12.859Z",
+          "image": "http://localhost:3000/images/users/viso.jpg",
+          "worldrank": 2738
+        },
+        {
+          "created": "2020-02-11",
+          "created_at": "2020-02-11T01:05:19.497Z",
+          "email": "roger@gmail.com",
+          "id": 3,
+          "level": 0,
+          "kms": "768",
+          "name": "Roger",
+          "vehicle": "Dualtron Thunder",
+          "updated_at": "2020-01-22T10:09:12.859Z",
+          "image": "http://localhost:3000/images/users/roger.jpg",
+          "worldrank": 4673
+        },
+        {
+          "created": "2020-02-18",
+          "created_at": "2020-02-18T01:05:19.497Z",
+          "email": "timcuqui@gmail.com",
+          "id": 4,
+          "level": 1,
+          "kms": "3000",
+          "name": "Timcuqui",
+          "vehicle": "FLJ K3",
+          "updated_at": "2020-01-18T10:09:12.859Z",
+          "image": "http://localhost:3000/images/users/timcuqui.jpg",
+          "worldrank": 4
+        },
+        {
+          "created": "2020-02-17",
+          "created_at": "2020-02-17T01:05:19.497Z",
+          "email": "jorge@gmail.com",
+          "id": 5,
+          "level": 0,
+          "kms": "4500",
+          "name": "Timcuqui",
+          "vehicle": "FLJ K3",
+          "updated_at": "2020-01-18T10:09:12.859Z",
+          "image": "http://localhost:3000/images/users/jorge.jpg",
+          "worldrank": 2738
+        }
+      ]
+  }

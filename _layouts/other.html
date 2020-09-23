@@ -1,9 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
     <title>{{ page.title }} - {{ site.title }}</title>
     <style>
       {% include styles.css %}
@@ -17,16 +20,17 @@
         <h1>{{ page.title }}</h1>
         <section>
           {% if page.summary %}
-          <blockquote class="padding--16 background-color--3 border-width--1 border-color--1 border-style--solid">
+          <blockquote
+            class="padding--16 background-color--3 border-width--1 border-color--1 border-style--solid"
+          >
             <h4 class="margin--0">Sumario:</h4>
             <p class="margin--0 padding--0">{{ page.summary }}</p>
           </blockquote>
           {% endif %}
         </section>
-      {{ content }}
+        {{ content }}
       </article>
     </main>
-    {% include footer-next-prev.html %}
-    {% include footer-related.html %}
+    {% include footer-next-prev.html %} {% include footer-related.html %}
   </body>
 </html>

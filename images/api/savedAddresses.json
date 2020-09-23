@@ -1,0 +1,56 @@
+{
+  "today": [
+    {
+      "id": "1",
+      "title": "Parque Tibidabo",
+      "address": "Carrer del Mig 27",
+      "city": "Barcelona"
+    }    
+  ],
+  "Yesteday": [
+    {
+      "id": "2",
+      "title": "Plaza Can Terrello",
+      "address": "Carrer de Santa Marta 16",
+      "city": "Barcelona"
+    }
+  ],
+  "Last Month": [
+    {
+      "id": "3",
+      "title": "Bailén 20",
+      "address": "Carrer de Santa Marta 16",
+      "city": "Barcelona"
+    },
+    {
+      "id": "4",
+      "title": "Forum Barcelona",
+      "address": "Avinguda Diagonal",
+      "city": "Barcelona"
+    },
+    {
+      "id": "5",
+      "title": "McDonalds",
+      "address": "Playa Barceloneta",
+      "city": "Barcelona"
+    },
+    {
+      "id": "6",
+      "title": "La Maquinista",
+      "address": "Carrer de Potosí",
+      "city": "Barcelona"
+    },
+    {
+      "id": "7",
+      "title": "La Maquinista",
+      "address": "Carrer de Potosí",
+      "city": "Barcelona"
+    },
+    {
+      "id": "8",
+      "title": "Club Deportivo San Gabriel",
+      "address": "Avinguda de la Platja",
+      "city": "Badalona"
+    }
+  ]
+}

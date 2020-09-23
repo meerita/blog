@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <style>
+      {% include styles.css %}
+    </style>
+  </head>
+  <body class="font-family--sans">
+    <main>
+      <article class="padding--16 c-articles">
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.subtitle }}</h2>
+        {{ content }}
+      </article>
+    </main>
+  </body>
+</html>

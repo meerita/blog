@@ -1,0 +1,24 @@
+{
+  "id": 0,
+  "category": "escooter",
+  "title": "Yamaha MT-09",
+  "image": "http://localhost:3000/images/products/thunder.png",
+  "owners": "283991",
+  "price": 3599,
+  "fulml_spec": {
+    "brand": "Yamaha",
+    "engine": "847 cc",
+    "cylinders": 3,
+    "abs": "yes",
+    "model": "MT-09",
+    "battery": "59.2V 34.8Ah",
+    "potency": "5400W Dual",
+    "transmission": 6,
+    "motors": 1,
+    "range": 120,
+    "speed": 256.61,
+    "weight": 43
+  },
+  "buyable": "yes",
+  "affiliation": "http://toamazon.com"
+}

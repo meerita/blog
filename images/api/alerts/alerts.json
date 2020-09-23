@@ -1,0 +1,22 @@
+{
+  "2020-02-01": [
+    {
+      "type": "invite",
+      "image": "http://localhost:3000/images/users/timcuqui.jpg",
+      "name": "timcuqui",
+      "time": "08:30"
+    },
+    {
+      "type": "event",
+      "group": "Ruteros",
+      "image": "http://localhost:3000/images/users/timcuqui.jpg",
+      "name": "Timcuqui",
+      "time": "11:05"
+    },
+    {
+      "type": "stats",
+      "march"
+      "time": "15:12"
+    }
+  ]
+}

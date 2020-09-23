@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Ruteros",
+    "description": "Grupo de VMP de alta velocidad y emoción nocturna por Barcelona. Salimos casi todas las noches por sobre las 23 y hacemos rutas de tipo offroad, pueblos, ciudad, lo que venga. Cualquier VMP con más de 50km de rango es bienvenido.",
+    "members": "5",
+    "image": "http://localhost:3000/images/groups/ruteros.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Dualtron Thunders",
+    "description": "Sólo Dualtron Thunders aquí.",
+    "members": "48",
+    "image": "http://localhost:3000/images/groups/ruteros.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Offorad Barcelona",
+    "description": "Salidas por la montaña, tierra y barro",
+    "members": "127",
+    "image": "http://localhost:3000/images/groups/ruteros.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Barcelona en VMP",
+    "description": "Grupo de VMP de Barcelona",
+    "members": "236",
+    "image": "http://localhost:3000/images/groups/ruteros.jpg"
+  }
+]
